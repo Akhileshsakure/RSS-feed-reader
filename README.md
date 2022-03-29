@@ -23,5 +23,13 @@ The script parses the response for each url and returns title, description and l
 
   ```python main.py```
 
-5. Enter white space separated RSS feed URLs
+## Input
+Enter white space separated RSS feed URLs as shown
   
+<img width="617" alt="image" src="https://user-images.githubusercontent.com/36232800/160547461-e2781870-3638-426c-8c74-4355f27893c0.png">
+
+## Output
+Results will be displayed as
+
+<img width="632" alt="image" src="https://user-images.githubusercontent.com/36232800/160547851-0c4df99a-8a4e-4391-a922-66ad50befcc5.png">
+
